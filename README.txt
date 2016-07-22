@@ -1,3 +1,9 @@
+这是我的本地版本：
+
+请查看branch-3.4分支，我有一些纪录
+
+
+
 For the latest information about Apache ZooKeeper, please visit our website at:
 
    http://zookeeper.apache.org/
@@ -29,6 +35,10 @@ zookeeper-<version>-javadoc.jar - contains only javadoc files
 These bin/src/javadoc jars were added specifically to support Maven/Ivy which have 
 the ability to pull these down automatically as part of your build process. 
 The contents of the legacy jar and the bin + sources jars are the same.
+
+
+
+
 
 As of version 3.3.0, the bin, sources and javadoc jars contained in the
 dist-maven directory are deployed to the central repository after the release
