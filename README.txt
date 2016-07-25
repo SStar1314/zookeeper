@@ -4,6 +4,7 @@ ZooKeeper3.4版本基本上玩的可以了，包括：Server，Client，RestAPI�
 任何一个分布式协同管理平台系统无法同时满足CAP特性，ZooKeeper应该是做到了ZP。
 CAP定理（C-数据一致性；A-服务可用性；P-服务对网络分区故障的容错性）
 
+paxos算法!!! 可以考虑研究一下
 
 这是我的本地版本：
 请查看branch-3.4分支，我有一些纪录
